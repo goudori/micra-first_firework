@@ -1,0 +1,5 @@
+name: First_micra
+version: '${version}'
+# main:パッケージメ名.クラス名
+main: plugin.first_micra.Main
+api-version: '1.20.6'
