@@ -76,7 +76,7 @@ public final class Main extends JavaPlugin implements Listener {
       // 追加した情報で再設定する。
       firework.setFireworkMeta(fireworkMeta);
     }
-
+// マイクラの世界へようこそ!+マインクラフトと画面に表示する
     player.sendTitle("マイクラの世界へようこそ!", "マインクラフト", 10, 70, 20);
   }
 }
